@@ -24,6 +24,7 @@ public class CityService implements ICityService {
         cities.add(new City(7L, "Edinburgh", 464000));
         cities.add(new City(8L, "Berlin", 3671000));
         cities.add(new City(9L, "New Delhi", 5912000));
+        cities.add(new City(9L, "Dallas", 2343000));
 
         return cities;
     }
